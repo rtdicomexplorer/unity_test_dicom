@@ -14,9 +14,9 @@ UserSettings/
 Packages/PackageCache/
 
 # Auto-generated VS/VSCode/IDE files
-*.csproj
+.csproj
 *.unityproj
-*.sln
+.sln
 *.suo
 *.user
 *.userprefs
