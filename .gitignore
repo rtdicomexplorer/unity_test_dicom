@@ -1,0 +1,48 @@
+# ========== Unity Generated Folders ==========
+Library/
+Temp/
+obj/
+[Bb]uild/
+[Bb]uilds/
+Logs/
+MemoryCaptures/
+UserSettings/
+.vs/
+.vs*
+
+# Package cache (NuGetForUnity, Unity packages)
+Packages/PackageCache/
+
+# Auto-generated VS/VSCode/IDE files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# OS system files
+.DS_Store
+Thumbs.db
+UpgradeLog*
+
+# Optional: ignore large DICOM sample folders if you have them
+# Example: Assets/DicomSamples/
+#Assets/DicomSamples/**
+
+# Keep your scripts, scenes, prefabs, materials
+
+!ProjectSettings/
+!Packages/manifest.json
+!Packages/packages-lock.json
+
+Assets/TutorialInfo/*
+Assets/Packages/*
+Assets/Scenes/*
+Assets/TextMesh*
+ProjectSettings/
+
